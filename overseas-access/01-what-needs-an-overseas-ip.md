@@ -27,4 +27,4 @@
 - **中国のアプリを使っているあいだ、すべてを経路に通す必要はありません。** スプリットルーティング（振り分け）をオンにすれば、デフォルトではブロックされているサイトだけが経路を通り、中国のサイトや、中国からでも普通に開ける海外サイトは直接つながるので、どちらも遠回りしません。「[ルーターのスプリットルーティング](../router/03-router-split-routing.md)」をご覧ください。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-01) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-01)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-01) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-01)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです

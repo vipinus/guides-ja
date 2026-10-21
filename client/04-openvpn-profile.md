@@ -43,4 +43,4 @@ OpenVPN は歴史のあるオープンソースのプロトコルで、ほぼす
 プロファイルにはアカウントとパスワードが入っているので、アカウントそのものと同じです。人に渡さないでください。漏れた場合は、ウェブサイトでパスワードを変更すれば、古いファイルはすぐに使えなくなります。ハンドシェイク自体も暗号化されていて、プロファイルの鍵がなければハンドシェイクを始めることすらできず、スキャンしてもサーバーは見えません。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=client-04) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=client-04)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=client-04) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=client-04)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

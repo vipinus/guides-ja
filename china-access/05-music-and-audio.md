@@ -26,4 +26,4 @@ NetEase Cloud Music（網易雲音楽）、QQ 音楽、Kugou（酷狗音楽）�
 音楽は通信量が少ないので、**Webプロキシ**やブラウザーで使う方法で十分で、端末全体を経路に通す必要はありません。スマホなら、音楽アプリだけを経路に通し（アプリ単位のプロキシ）、ほかのアプリは現地のネットワークのままにすることもでき、通信量もバッテリーも節約できます。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-05) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-05)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-05) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-05)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです

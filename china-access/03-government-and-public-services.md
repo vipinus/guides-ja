@@ -26,4 +26,4 @@
 行政関係の手続きは年に 1〜2 回しか発生しないことが多く、そのたびに直前で経路を探すのはかなりの手間です。中国向けの経路を決まった接続先として 1 つ設定しておき、用が済んだら切り替えて戻すほうが、毎回設定し直すより楽です。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-03) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-03)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-03) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-03)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

@@ -103,4 +103,4 @@ deb パッケージは x64 版です。ARM の Linux 機器では OpenVPN を使
 - [iOS でアプリをインストールできないとき](https://www.leotun.com/ja/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=client-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=client-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=client-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=client-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

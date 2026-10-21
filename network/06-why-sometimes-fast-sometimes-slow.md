@@ -43,4 +43,4 @@
 **近いほど速いとは限りません。** ネットワークの通信は、地図上の直線距離ではなく、キャリア同士の相互接続の経路に沿って流れます。遠回りのほうが速いこともあれば、同じ地域でも時間帯によって速度がまったく違うこともあります。ですから「どの地域がいちばん速いか」に決まった答えはなく、試してみるしかありません。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-06) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-06)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-06) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-06)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

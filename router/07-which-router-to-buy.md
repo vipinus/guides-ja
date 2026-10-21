@@ -68,4 +68,4 @@
 **ファームウェアにバックドアはありませんか？** OpenWrt からビルドしたもので、追加しているのは VPN に接続するためのコンポーネントと振り分けルールだけです。VPN が記録するのは課金のための接続時間と通信量の合計だけで、アクセス先は記録しません。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-07) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-07)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-07) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-07)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

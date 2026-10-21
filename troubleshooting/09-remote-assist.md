@@ -83,4 +83,4 @@ RustDesk を開くと、メイン画面にこの端末の ID とワンタイム�
 - [01 · つながらない・遅い・切れるときのチェックリスト](01-cannot-connect-slow-drops.md)
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=troubleshooting-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=troubleshooting-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=troubleshooting-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=troubleshooting-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

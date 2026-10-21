@@ -65,4 +65,4 @@ Clash Meta（mihomo）、Clash Verge、FlClash、Stash などは、「Clash サ�
 **QR コードを家族に送ってもいいですか？** QR コードにはアカウントの認証情報が入っていて、送った相手はあなたのアカウントを使えるようになります。家族との共有はかまいません（同時接続の台数はプランで決まり、個人 2 台、ファミリー 4 台、ビジネス 8 台）が、公開の場所には載せないでください。漏れたらパスワードを変えれば無効になります。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=client-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=client-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=client-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=client-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

@@ -33,4 +33,4 @@ LeoTun の地域一覧では、各地域の現在の負荷を **赤・黄・緑�
 4. どちらの時間帯でも悪くなかったほうを普段使いにし、もう一方を予備にします。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-03) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-03)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-03) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-03)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです

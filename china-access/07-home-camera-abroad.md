@@ -35,4 +35,4 @@ LeoTun の「プライベートネットワーク」は、まさにこの種の�
 自宅のカメラの映像は、あなたの端末と自宅の間だけでやり取りされるべきものです。プライベートネットワークの方法では端末同士の直接接続を優先し、直接つながらないときだけリレーを経由し、映像がどのサーバーにも保存されることはありません。一方、メーカーのクラウドを使う方法ではメーカーを経由します。どちらの場合も、出どころのわからない「トンネルツール」は使わないでください。自宅のカメラを他人に渡すのと同じことになります。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-07) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-07)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 24 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-07) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-07)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
