@@ -51,4 +51,4 @@
 まず無料トライアルで、使いたいサービスを 1 つずつ試してください。**解決できたら続けてお使いください。それ以外のご要望はサポートにご連絡を**。合う方法があるか一緒に考えます。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-07) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-07)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うたびに、お互いに「個人」プラン 20 日分を進呈。期限のないキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-07) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-07)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うたびに、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。期限のないキャンペーンです

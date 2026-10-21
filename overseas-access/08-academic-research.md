@@ -47,4 +47,4 @@ Google Scholar は **リクエストの頻度** にかなり敏感です。ス�
 本当にヨーロッパや北米を選ぶ必要があるのは、一部の出版社がアクセス元によって地域制限をかけている場合や、機関アカウントが特定の地域に結び付いている場合です。そうした場面に出くわしたら切り替えてください。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-08) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-08)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-08) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-08)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

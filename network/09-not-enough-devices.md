@@ -56,4 +56,4 @@ LeoTun のアカウントは何台にでもインストールでき、制限さ�
 この記事のウェブサイト版（ほかの言語版もあります）：https://www.leotun.com/ja/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うたびに、お互いに「個人」プラン 20 日分を進呈。期限のないキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うたびに、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。期限のないキャンペーンです

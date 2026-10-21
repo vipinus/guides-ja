@@ -47,4 +47,4 @@ SMS の認証コードが届かないのは経路とは関係なく、電話番�
 この記事のウェブサイト版（ほかの言語版もあります）：https://www.leotun.com/ja/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-12) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-12)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-12) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-12)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

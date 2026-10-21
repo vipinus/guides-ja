@@ -42,4 +42,4 @@ Cisco は名前を Cisco Secure Client に変えましたが、使い方は同�
 **長時間つないでいると勝手に切れますか？** 時間で切れることはありません。アカウントの期限が切れるとサーバーが切断するので、更新してからつなぎ直してください。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

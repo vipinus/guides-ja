@@ -27,4 +27,4 @@
 経路を通していてもいなくても、公衆 Wi-Fi でネットバンキングを使わないでください。経路は出口の IP を変えるだけで、銀行の先まで暗号化してくれるわけではありません。安全性を支えているのは、銀行アプリ自身の暗号化です。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-04) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-04)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-04) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-04)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

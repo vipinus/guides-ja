@@ -45,4 +45,4 @@ VPN ルーターを入れるとき、まず気になるのは家のほかの機�
 **特定の 1 台を常に VPN から外しておけますか？** できます。その端末を上流のルーターかモデムにつないでください。管理画面でルーター全体を「直接接続」モードに切り替えることもできますが、その場合は全員に一度に適用されます。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-10) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-10)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-10) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-10)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。長期実施中のキャンペーンです

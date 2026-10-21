@@ -45,4 +45,4 @@ VPN ルーターを自分で組んだことのある人なら、こんな経験�
 **部品の更新で接続が途切れることはありますか？** ありません。更新は起動時に確認・ダウンロードされ、次回の起動時に反映されます。使っている最中にルーターが勝手に再起動することはありません。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-12) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-12)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-12) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-12)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

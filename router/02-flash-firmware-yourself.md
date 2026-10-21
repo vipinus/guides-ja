@@ -131,4 +131,4 @@ GL.iNet を例にします。
 **今後のアップデートのたびに書き込み直す必要がありますか？** 通常のアップデートはルーターが自分で取り込むので、何もしなくてかまいません。メジャーバージョンのときだけ、新しくビルドして sysupgrade ファイルを一度書き込む必要があり、その際はウェブサイトでお知らせします。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=router-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=router-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。長期実施中のキャンペーンです

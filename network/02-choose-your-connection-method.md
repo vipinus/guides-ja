@@ -78,4 +78,4 @@ LeoTun のアカウント 1 つで、6 つの接続方法が使えます。プ�
 この記事のウェブサイト版（ほかの言語版もあります）：https://www.leotun.com/ja/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-02) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-02)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

@@ -23,4 +23,4 @@
 通信をいったん中国本土のサーバーに送り、そのサーバーが代わりに目的地にアクセスします。方法はクライアント、Webプロキシ、ルーターの 3 つです。選び方は、姉妹リポジトリの「[どの接続方法がどんな場面に合うか](../network/02-choose-your-connection-method.md)」をご覧ください。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-01) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-01)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-01) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-01)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。長期実施中のキャンペーンです

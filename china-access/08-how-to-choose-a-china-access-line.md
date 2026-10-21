@@ -53,4 +53,4 @@
 **Clash は使えますか？** 使えます。LeoTun では sing-box サブスクリプション、Clash サブスクリプション、hysteria2 の共有リンクを用意しています。Clash Meta、Clash Verge、FlClash、Stash などなら、「Clash サブスクリプション」のボタンをクリックして URL をクライアントのサブスクリプション一覧に貼り付けます。サブスクリプション変換ツールは不要で、共有リンクは使わないでください。初代の Clash と Clash for Windows はコアが hysteria2 に対応していないため使えません。このサブスクリプションは初期設定でローカルネットワーク以外のすべてをノード経由にするので、中国の動画のために変更するものはありません。自分でルールを追加する場合は、中国のドメインを「direct」（直接）にしないでください。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-08) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-08)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-08) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-08)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

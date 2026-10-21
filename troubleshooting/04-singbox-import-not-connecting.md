@@ -26,4 +26,4 @@
 クライアント名とバージョン、地域、エラーの正確な文言かスクリーンショット。この 3 つをサポートに伝えてください。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=troubleshooting-04) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=troubleshooting-04)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに「個人」プラン 20 日分を進呈。長期実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=troubleshooting-04) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=troubleshooting-04)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 4 時間の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。長期実施中のキャンペーンです
