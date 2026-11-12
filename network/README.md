@@ -13,7 +13,7 @@
 | [05 · 危険な VPN ソフトの見分け方](05-risky-vpn-apps.md) |
 | [06 · 速いときと遅いときがあるのはなぜか](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · 経路で解決できる問題と、別の対処が必要な問題](07-when-you-do-not-need-us.md) |
-| [08 · 3 つのプランの選び方、更新とお支払い](08-account-tiers-and-payment.md) |
+| [08 · プランの選び方、更新とお支払い](08-account-tiers-and-payment.md) |
 | [09 · 同時接続の台数が足りないとき](09-not-enough-devices.md) |
 
 [← 目次に戻る](../README.md)

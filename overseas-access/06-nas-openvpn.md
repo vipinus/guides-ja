@@ -31,7 +31,7 @@ NAS 自体を経路に通す（ダウンロード、イメージの pull、海�
 
 - 設定ファイルにはアカウント情報が含まれていて、パスワードを変えると NAS に入れたパスワードは使えなくなります。.ovpn をダウンロードし直して差し替えるか、VPN プロファイルのパスワードだけ変更してください。
 - アカウントの期限が切れると NAS は切断されます。更新すれば自動で再接続し、設定を差し替える必要はありません。
-- NAS は 1 台と数え、ほかの端末と同時接続の枠を共有します（個人 2 台、ファミリー 4 台、ビジネス 8 台）。
+- NAS は 1 台と数え、ほかの端末と同時接続の枠を共有します（ベーシック 2 台、スタンダード 4 台、プロ 8 台、エリート 16 台、エンタープライズ 32 台、アルティメット 64 台）。
 - 経路は UDP で動きます。家庭用ブロードバンドにつないだ NAS が UDP の制限にぶつかることは、まずありません。
 
 ## よくある質問
@@ -54,4 +54,4 @@ NAS 自体を経路に通す（ダウンロード、イメージの pull、海�
 この記事のウェブサイト版（ほかの言語版もあります）：https://www.leotun.com/ja/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-06) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-06)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-06) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-06)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「ベーシック」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

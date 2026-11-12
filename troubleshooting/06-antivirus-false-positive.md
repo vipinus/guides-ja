@@ -63,4 +63,4 @@ Windows では、現在のテストで Hiddify をインストールしてもウ
 iOS では App Store からインストールするので、この問題はありません。Android ではまれに提供元不明のアプリとして警告されますが、許可すれば大丈夫です。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=troubleshooting-06) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=troubleshooting-06)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=troubleshooting-06) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=troubleshooting-06)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「ベーシック」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

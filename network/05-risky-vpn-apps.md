@@ -66,4 +66,4 @@ LeoTun のクライアントはすべて公式ベンダーと著名なオープ�
 この記事のウェブサイト版（ほかの言語版もあります）：https://www.leotun.com/ja/guides/risky-vpn-apps?utm_source=github&utm_content=network-05
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-05) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-05)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=network-05) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=network-05)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「ベーシック」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

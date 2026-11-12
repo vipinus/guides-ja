@@ -9,7 +9,7 @@
 | 受け取り方 | もらえるもの |
 |---|---|
 | 登録後に無料トライアルを受け取る | 30 分間すべての機能を利用可能、クレジットカード不要 |
-| 招待した友だちが登録して初回の支払いを済ませる | あなたと友だちにそれぞれ 15 ポイント（「個人」プランは 1 日 1 ポイントなので約 15 日分）をポイント残高へ直接付与。友だち 1 人につき 1 回、人数の上限なし |
+| 招待した友だちが登録して初回の支払いを済ませる | あなたと友だちにそれぞれ 15 ポイント（「ベーシック」プランは 1 日 1 ポイントなので約 15 日分）をポイント残高へ直接付与。友だち 1 人につき 1 回、人数の上限なし |
 
 ウェブサイト：<https://www.leotun.com/ja?utm_source=github&utm_content=readme> · お問い合わせ：<https://www.leotun.com/ja/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@
 | [05 · 危険な VPN ソフトの見分け方](network/05-risky-vpn-apps.md) |
 | [06 · 速いときと遅いときがあるのはなぜか](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · 経路で解決できる問題と、別の対処が必要な問題](network/07-when-you-do-not-need-us.md) |
-| [08 · 3 つのプランの選び方、更新とお支払い](network/08-account-tiers-and-payment.md) |
+| [08 · プランの選び方、更新とお支払い](network/08-account-tiers-and-payment.md) |
 | [09 · 同時接続の台数が足りないとき](network/09-not-enough-devices.md) |
 
 ### [クライアントガイド · インストールと設定](client/)

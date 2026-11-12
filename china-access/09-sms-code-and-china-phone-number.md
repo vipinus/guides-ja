@@ -22,4 +22,4 @@ SMS の認証コードは中国の電話番号にしか送られません。海�
 - 顔認証の失敗は、たいていアプリのバージョンかカメラの権限の問題です。アプリの中国版を入れ、カメラを許可してください。
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。常時実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=china-access-09) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=china-access-09)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「ベーシック」プランで約 15 日分）を進呈。常時実施中のキャンペーンです

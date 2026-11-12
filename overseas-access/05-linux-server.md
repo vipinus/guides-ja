@@ -34,7 +34,7 @@ Docker デーモンはシェルの環境変数を読まないので、/etc/syste
 
 ## 知っておきたいこと
 
-- Linux マシン 1 台は 1 台と数え、ほかの端末と同時接続の枠を共有します（個人 2 台、ファミリー 4 台、ビジネス 8 台）。方法 2 の Webプロキシも接続ごとに数えられ、枠に含まれます。
+- Linux マシン 1 台は 1 台と数え、ほかの端末と同時接続の枠を共有します（ベーシック 2 台、スタンダード 4 台、プロ 8 台、エリート 16 台、エンタープライズ 32 台、アルティメット 64 台）。方法 2 の Webプロキシも接続ごとに数えられ、枠に含まれます。
 - 設定ファイルとパスワードファイルはアカウントそのものと同じです。git リポジトリにコミットしたり、イメージに入れたりしないでください。
 - パスワードを変更すると、古い設定はすぐに使えなくなります。これは意図した失効の仕組みです。パスワードファイルを更新すれば使えます。
 - クラウドサーバーで経路を使う場合は、事業者の利用規約に従ってください。経路が記録するのは接続時間と通信量の合計だけです。
@@ -59,4 +59,4 @@ Docker デーモンはシェルの環境変数を読まないので、/etc/syste
 この記事のウェブサイト版（ほかの言語版もあります）：https://www.leotun.com/ja/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-05) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-05)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「個人」プランで約 15 日分）を進呈。長期実施中のキャンペーンです
+[LeoTun](https://www.leotun.com/ja?utm_source=github&utm_content=overseas-access-05) チーム編集 · ご質問は[お問い合わせページ](https://www.leotun.com/ja/contact?utm_source=github&utm_content=overseas-access-05)へ（グループ、メール、サポートの連絡先をまとめています）· 登録すると 30 分の無料トライアル。招待した友だちが支払うと、お互いに 15 ポイント（「ベーシック」プランで約 15 日分）を進呈。長期実施中のキャンペーンです
